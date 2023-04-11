@@ -1,4 +1,4 @@
 # nucampsite back end
 
-- week 3 workshop: <https://learn.nucamp.co/mod/assign/view.php?id=615>
-- editing permissions
+- week 4: security, uploads, cors, oauth
+- week 3 workshop: authenticate authorize
